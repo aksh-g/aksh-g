@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aksh-g
+ 👋 Hi, I’m @aksh-g
 
 
 <!---
